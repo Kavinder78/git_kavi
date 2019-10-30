@@ -1,0 +1,37 @@
+
+github
+
+Kavinder78/cl@oud123
+
+IAM users sign-in link: https://kavinder.signin.aws.amazon.com/console
+
+Suh@ni26
+
+Version 3.0
+
+upload replicate file
+
+dmpvf8gvyyy0y.cloudfront.net\Important_Instructions.txt
+
+3.93.38.131
+
+
+http://gbslearn-stg.atlanta.ibm.com/futureskills/index.html
+
+bootstrap script:
+
+#!/bin/bash
+yum update -y
+yum install httpd -y
+service httpd start
+chkconfig httpd on
+cd /var/www/html
+echo "<html><h1>This is Kavinder Webserver 01</h1></html>" >index.html
+
+#!/bin/bash
+yum update -y
+yum install httpd -y
+chkconfig httpd on
+service httpd start
+cd /var/www/html
+echo "<html><h1>Hello Kavinder Gurus! This is the Y Web Server</h1></html>" > index.html
